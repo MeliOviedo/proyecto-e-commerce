@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+.logo-header{
+  font-size: 4rem;
+  font-weight: bolder;
+  margin-left: 100%;
+  padding: 10px;
+  text-align: center;
+}
+
+.img-size{
+  height: auto;
+  max-width: 100%;
+}
+.visualCart{
+  position: fixed;
+  top: 0;
+  left: -35vw;
+  width: 35vw;
+  height: 100vh;
+  background-color: #5f75b9;
+  overflow-y: scroll;
+}
